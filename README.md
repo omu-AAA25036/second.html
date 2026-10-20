@@ -1,0 +1,16 @@
+# second.html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>おすすめの旅行先</title>
+</head>
+<body>
+    <h1>おすすめの旅行先</h1>
+    
+    <!-- 画像を挿入 -->
+    <img src="top.png" width="400" alt="おすすめの食べ物の写真">
+    
+    <p>私のおすすめは...</p>
+</body>
+</html>
